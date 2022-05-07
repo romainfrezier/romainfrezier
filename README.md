@@ -1,7 +1,7 @@
 ### 👋 Bonjour a tous je suis Romain FREZIER
 
 - 📚 Je suis en 3ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France
-- 📧 Me contacter : [linkedin](https://www.linkedin.com/in/romain-frz/)
+- 📧 Me contacter : <a href="https://www.linkedin.com/in/romain-frz/" target="_blank">linkedin</a>
 ___
 <p>Quelques stats : </p>
 <p style="width: 80%;">
