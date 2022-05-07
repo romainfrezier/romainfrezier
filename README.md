@@ -10,5 +10,5 @@ ___
 
 <p>Les languages les plus pratiqués : </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrz&langs_count=4&theme=highcontrast&layout=compact ">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrz&langs_count=5&theme=highcontrast&layout=compact ">
 </p> 
