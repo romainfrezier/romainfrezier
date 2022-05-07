@@ -2,7 +2,7 @@
 ---
 #### 📚 Je suis en 3ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France
 ---
-#### 📩 Me contacter : </br></br><a href="https://www.linkedin.com/in/romain-frz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+#### 📩 Me contacter : </br></br><a href="https://www.linkedin.com/in/romain-frz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ---
 ### Quelques stats :
 <p style="width: 80%;">
