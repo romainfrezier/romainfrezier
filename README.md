@@ -1,6 +1,6 @@
 ## 👋 Bonjour a tous je suis Romain FREZIER
 ---
-#### 📚 Je suis en 3ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France
+#### 📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France
 ---
 #### ⬇️ Me contacter ⬇️
 
