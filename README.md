@@ -11,9 +11,9 @@
 ---
 ### 📈 Quelques stats :
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrz&show_icons=true&theme=highcontrast&count_private=true&hide=issues">
+<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues">
 <br>
 
 ### 🖥 Les languages les plus utilisés :
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrz&langs_count=5&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&langs_count=5&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc">
