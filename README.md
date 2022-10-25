@@ -16,4 +16,4 @@
 
 ### 🖥 Les languages les plus utilisés :
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&langs_count=5&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc">
