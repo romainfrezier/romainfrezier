@@ -1,6 +1,6 @@
 ## 👋 Bonjour a tous je suis Romain Frezier
 
-#### <a href="https://www.polytech.umontpellier.fr" target="blank"><img src="img/polytech-logo.png" alt="polytech" style="width: 10px;"></a> Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France 
+#### 📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France 
 
 
 #### 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
