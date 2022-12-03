@@ -19,7 +19,6 @@
 
 - Langages de programmation
 
-<br/>
 <div style="display: flex; border-left: blue 1px solid; justify-content: space-between; padding: 20px; max-width: 400px">
 
 <a href="https://dev.java/" target="blank">
@@ -44,7 +43,6 @@
 
 - Programmation web et technologies
 
-<br/>
 <div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 800px">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
@@ -85,7 +83,6 @@
 
 - Bases de données
 
-<br/>
 <div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 300px">
 
 <a href="https://www.postgresql.org/" target="blank">
