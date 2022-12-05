@@ -1,26 +1,27 @@
 ## 👋 Bonjour a tous je suis Romain Frezier
 
-#### 📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
+📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
 
+🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
-#### 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
-#### 📷 Pendant mes sorties en montagne, j'adore photographier les paysages !
+📷 Pendant mes sorties en montagne, j'adore photographier les paysages !
 
 ---
-#### Me contacter ↘️
 
-<div style="display: flex; justify-content: space-between; max-width: 700px">
+### Me contacter ↘️
+
+<div style="display: flex; justify-content: space-between; max-width: 600px">
 <a href="https://www.linkedin.com/in/romain-frz/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px" alt="linkedin link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px" alt="linkedin link">
 </a>
 <a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 40px;" alt="gmail link">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px;" alt="gmail link">
 </a>
 <a href="https://m.me/frezierromain">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 40px" alt="messenger link">
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 30px" alt="messenger link">
 </a>
 <a href="https://www.instagram.com/lorenzo_ita_/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;" alt="instagram link">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;" alt="instagram link">
 </a>
 </div>
 
@@ -30,9 +31,9 @@
 
 <br/>
 
-- Langages de programmation
+<h4 style="border-bottom: blue solid 1px">• Langages de programmation</h4>
 
-<div style="display: flex; border-left: blue 1px solid; justify-content: space-between; padding: 20px; max-width: 400px">
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 400px">
 
 <a href="https://dev.java/" target="blank">
   <img alt="Java" width="52px" src="img/java-logo.png" />
@@ -54,9 +55,9 @@
 
 <br/>
 
-- Programmation web et technologies
+<h4 style="border-bottom: white solid 1px">• Programmation web et technologies</h4>
 
-<div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 900px">
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" style="text-decoration: none">
   <img alt="HTML5" width="52px" src="img/html-logo.png" />
@@ -98,9 +99,9 @@
 
 <br/>
 
-- Bases de données
+<h4 style="border-bottom: white solid 1px">• Bases de données</h4>
 
-<div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 300px">
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
 
 <a href="https://www.postgresql.org/" target="blank" style="text-decoration: none">
   <img alt="PostgreSQL" width="52px" src="img/postgresql-logo.png"/>
@@ -122,9 +123,13 @@
 
 <br/>
 
-- Logiciels et outils
+<h4 style="border-bottom: red solid 1px">• Logiciels et outils</h4>
 
-<div style="display: flex; border-left: red 1px solid; justify-content: space-between; padding: 20px; max-width: 900px">
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
+
+<a href="https://www.apple.com/fr/macos/" target="blank" style="text-decoration: none">
+  <img alt="macOS" width="52px" src="img/macos-logo.png"/>
+</a>
 
 <a href="https://github.com/" target="blank" style="text-decoration: none">
     <picture>
@@ -164,6 +169,10 @@
 <a href="https://code.visualstudio.com/" target="blank" style="text-decoration: none">
   <img alt="Visual Studio Code" width="52px" src="img/vscode-logo.png"/>
 </a>
+
+<a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
+  <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
+</a>
 <br/>
 
 </div>
@@ -172,9 +181,9 @@
 
 ### 📈 Quelques stats :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" height="200px" alt="Github Stats">
 
 
 ### 🖥 Les languages les plus utilisés :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
