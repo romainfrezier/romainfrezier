@@ -108,7 +108,7 @@
 <a href="https://www.mongodb.com" target="blank" style="text-decoration: none">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="img/mongo-db-logo-light.png">
-        <img alt="GitHub" src="img/mongo-db-logo-dark.png" width="104px" style="padding-top: 10px"/>
+        <img alt="Mongo" src="img/mongo-db-logo-dark.png" width="104px" style="padding-top: 10px"/>
     </picture>
 </a>
 
