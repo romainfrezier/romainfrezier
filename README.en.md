@@ -1,4 +1,8 @@
-*Vous pouvez lire ceci en français [ici](README.md).*
+## Languages
+
+## [🇫🇷](README.md) [🇺🇸](README.en.md) [🇩🇪](README.de.md)
+
+---
 
 ## 👋 Hi there, I'm Romain Frezier !
 

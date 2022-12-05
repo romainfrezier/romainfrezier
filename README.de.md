@@ -1,20 +1,20 @@
-## Langues
+## Sprachen
 
 ## [🇫🇷](README.md) [🇺🇸](README.en.md) [🇩🇪](README.de.md)
 
 ---
 
-## 👋 Bonjour a tous, je suis Romain Frezier
+## 👋 Hallo, ich bin Romain Frezier!
 
-📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
+📚 Ich bin im 4. Jahr der Ingenieurschule für Informatik und Management am Polytech Montpellier, Frankreich. Voraussichtlicher Abschluss: Juni 2024.
 
-🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
+🏔 Ursprünglich komme ich aus der Haute-Savoie in Frankreich und habe eine Leidenschaft für Sport und insbesondere für Bergsportarten wie Wandern, Skitourengehen, Trailrunning...
 
-📷 Pendant mes sorties en montagne, j'adore photographier les paysages ! Vous pouvez retrouver certaines de mes photos [ici](https://www.instagram.com/mountainpeaktures/).
+📷 Bei meinen Ausflügen in die Berge fotografiere ich gerne die Landschaften! Sie können einige meiner Bilder finden [hier](https://www.instagram.com/mountainpeaktures/).
 
 ---
 
-### Me contacter ↘️
+### Kontaktieren Sie mich ↘️
 
 <div style="display: flex; justify-content: space-between; max-width: 600px">
 <a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
@@ -33,9 +33,9 @@
 
 ---
 
-### Langages, Technologies et Logiciels
+### Sprachen, Technologien und Softwares 
 
-<h4 style="border-bottom: blue solid 1px">• Langages de programmation</h4>
+<h4 style="border-bottom: blue solid 1px">• Programmiersprachen</h4>
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 400px">
 
@@ -59,7 +59,7 @@
 
 <br/>
 
-<h4 style="border-bottom: white solid 1px">• Programmation web et technologies</h4>
+<h4 style="border-bottom: white solid 1px">• Webprogrammierung und Technologien</h4>
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
 
@@ -109,7 +109,7 @@
 
 <br/>
 
-<h4 style="border-bottom: white solid 1px">• Bases de données</h4>
+<h4 style="border-bottom: white solid 1px">• Datenbanken</h4>
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
 
@@ -133,7 +133,7 @@
 
 <br/>
 
-<h4 style="border-bottom: red solid 1px">• Logiciels et outils</h4>
+<h4 style="border-bottom: red solid 1px">• Software und Werkzeuge</h4>
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
 
@@ -189,18 +189,18 @@
 
 ---
 
-### 📈 Quelques stats :
+### 📈 Einige Statistiken :
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" height="200px" alt="Github Stats">
 
 
-### 🖥 Les languages les plus utilisés :
+### 🖥 Meistgenutzte Sprachen :
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
 
 ---
 
-## Mes dépots épingles
+## Meine angehefteten Repositories
 
 <a href="https://github.com/romainfrezier/Projet-FAR-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-FAR-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast" width="350px"></a>
