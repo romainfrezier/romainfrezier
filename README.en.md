@@ -190,7 +190,7 @@
 
 ---
 
-## Mes dépots épingles
+## My pinned repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Server)
