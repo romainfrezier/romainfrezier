@@ -60,11 +60,17 @@
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" style="text-decoration: none">
-  <img alt="HTML5" width="52px" src="img/html-logo.png" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/html-logo-light.png">
+        <img alt="HTML5" src="img/html-logo-dark.png" width="52px"/>
+    </picture>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" style="text-decoration: none">
-  <img alt="CSS3" width="52px" src="img/css-logo.png"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/css-logo-light.png">
+        <img alt="CSS3" src="img/css-logo-dark.png" width="52px"/>
+    </picture>
 </a>
 
 <a href="https://angular.io" target="blank" style="text-decoration: none">
