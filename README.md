@@ -45,39 +45,39 @@
 
 <div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 900px">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" style="text-decoration: none">
   <img alt="HTML5" width="52px" src="img/html-logo.png" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" style="text-decoration: none">
   <img alt="CSS3" width="52px" src="img/css-logo.png"/>
 </a>
 
-<a href="https://angular.io" target="blank">
+<a href="https://angular.io" target="blank" style="text-decoration: none">
   <img alt="Angular" width="52px" src="img/angular-logo.png"/>
 </a>
 
-<a href="https://reactjs.org" target="blank">
-  <img alt="React" width="52px" src="img/react-logo.png"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="blank">
+<a href="https://www.typescriptlang.org/" target="blank" style="text-decoration: none">
   <img alt="TypeScript" width="52px" src="img/typescript-logo.png"/>
 </a>
 
-<a href="https://vuejs.org/" target="blank">
+<a href="https://reactjs.org" target="blank" style="text-decoration: none">
+  <img alt="React" width="52px" src="img/react-logo.png" />
+</a>
+
+<a href="https://vuejs.org/" target="blank" style="text-decoration: none">
   <img alt="Vue" width="52px" src="img/vue-logo.png"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style="text-decoration: none">
   <img alt="JavaScript" width="52px" src="img/javascript-logo.png"/>
 </a>
 
-<a href="https://nodejs.org/en/" target="blank">
+<a href="https://nodejs.org/en/" target="blank" style="text-decoration: none">
   <img alt="Node.js" width="52px" src="img/nodejs-logo.png"/>
 </a>
 
-<a href="https://expressjs.com/" target="blank">
+<a href="https://expressjs.com/" target="blank" style="text-decoration: none">
   <img alt="Express" width="52px" src="img/express-logo.png"/>
 </a>
 
@@ -89,15 +89,18 @@
 
 <div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 300px">
 
-<a href="https://www.postgresql.org/" target="blank">
+<a href="https://www.postgresql.org/" target="blank" style="text-decoration: none">
   <img alt="PostgreSQL" width="52px" src="img/postgresql-logo.png"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="blank">
-  <img alt="MongoDB" width="104px" src="img/mongo-db-logo.png" style="padding-top: 10px"/>
+<a href="https://www.mongodb.com" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/mongo-db-logo-dark.png">
+        <img alt="GitHub" src="img/mongo-db-logo-light.png" width="104px" style="padding-top: 10px"/>
+    </picture>
 </a>
 
-<a href="https://www.mysql.com/" target="blank">
+<a href="https://www.mysql.com/" target="blank" style="text-decoration: none">
   <img alt="MySQL" width="52px" src="img/mysql-logo.png"/>
 </a>
 
@@ -110,39 +113,42 @@
 
 <div style="display: flex; border-left: red 1px solid; justify-content: space-between; padding: 20px; max-width: 900px">
 
-<a href="https://github.com/" target="blank">
-    <img width="52px" alt="Project Libre" src="img/github-logo-light.png"/>
+<a href="https://github.com/" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/github-logo-dark.png">
+        <img alt="GitHub" src="img/github-logo-light.png" width="52px"/>
+    </picture>
 </a>
 
-<a href="https://staruml.io/" target="blank">
+<a href="https://staruml.io/" target="blank" style="text-decoration: none">
   <img alt="StarUML" width="52px" src="img/staruml-logo.png"/>
 </a>
 
-<a href="https://trello.com/en" target="blank">
+<a href="https://trello.com/en" target="blank" style="text-decoration: none">
     <img alt="Trello" width="52px" src="img/trello-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/idea/" target="blank">
+<a href="https://www.jetbrains.com/idea/" target="blank" style="text-decoration: none">
   <img alt="Intellij" width="52px" src="img/intellij-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/clion/" target="blank">
+<a href="https://www.jetbrains.com/clion/" target="blank" style="text-decoration: none">
   <img alt="Clion" width="52px" src="img/clion-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/webstorm/" target="blank">
+<a href="https://www.jetbrains.com/webstorm/" target="blank" style="text-decoration: none">
   <img alt="WebStorm" width="52px" src="img/webstorm-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/pycharm/" target="blank">
+<a href="https://www.jetbrains.com/pycharm/" target="blank" style="text-decoration: none">
   <img alt="Pycharm" width="52px" src="img/pycharm-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/datagrip/" target="blank">
+<a href="https://www.jetbrains.com/datagrip/" target="blank" style="text-decoration: none">
   <img alt="DataGrip" width="52px" src="img/datagrip-logo.png"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="blank">
+<a href="https://code.visualstudio.com/" target="blank" style="text-decoration: none">
   <img alt="Visual Studio Code" width="52px" src="img/vscode-logo.png"/>
 </a>
 <br/>
