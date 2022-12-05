@@ -13,7 +13,7 @@
 ### Me contacter ↘️
 
 <div style="display: flex; justify-content: space-between; max-width: 600px">
-<a href="https://www.linkedin.com/in/romain-frz/" target="blank" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px" alt="linkedin link">
 </a>
 <a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
@@ -22,7 +22,7 @@
 <a href="https://m.me/frezierromain">
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 30px" alt="messenger link">
 </a>
-<a href="https://www.instagram.com/lorenzo_ita_/" target="blank" style="text-decoration: none">
+<a href="https://www.instagram.com/romainfrz/" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;" alt="instagram link">
 </a>
 </div>
