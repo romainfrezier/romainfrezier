@@ -29,8 +29,6 @@
 
 ### Langages, Technologies et Logiciels
 
-<br/>
-
 <h4 style="border-bottom: blue solid 1px">• Langages de programmation</h4>
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 400px">
