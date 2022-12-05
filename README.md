@@ -43,7 +43,7 @@
 
 - Programmation web et technologies
 
-<div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 800px">
+<div style="display: flex; border-left: white 1px solid; justify-content: space-between; padding: 20px; max-width: 900px">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
   <img alt="HTML5" width="52px" src="img/html-logo.png" />
@@ -59,6 +59,10 @@
 
 <a href="https://reactjs.org" target="blank">
   <img alt="React" width="52px" src="img/react-logo.png"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="blank">
+  <img alt="TypeScript" width="52px" src="img/typescript-logo.png"/>
 </a>
 
 <a href="https://vuejs.org/" target="blank">
@@ -149,9 +153,9 @@
 
 ### 📈 Quelques stats :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues">
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" alt="Github Stats">
+
 
 ### 🖥 Les languages les plus utilisés :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" alt="Most Used Languages">
