@@ -7,9 +7,22 @@
 #### 📷 Pendant mes sorties en montagne, j'adore photographier les paysages !
 
 ---
-#### ⬇️ Me contacter ⬇️
+#### Me contacter ↘️
 
-<a href="https://www.linkedin.com/in/romain-frz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px;"></a>
+<div style="display: flex; justify-content: space-between; max-width: 700px">
+<a href="https://www.linkedin.com/in/romain-frz/" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px" alt="linkedin link">
+</a>
+<a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 40px;" alt="gmail link">
+</a>
+<a href="https://www.instagram.com/lorenzo_ita_/" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;" alt="instagram link">
+</a>
+<a href="https://m.me/frezierromain">
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 40px" alt="messenger link">
+</a>
+</div>
 
 ---
 
