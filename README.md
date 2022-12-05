@@ -185,3 +185,7 @@
 ### 🖥 Les languages les plus utilisés :
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
+
+---
+
+© Romain Frezier - 2022
