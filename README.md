@@ -190,4 +190,20 @@
 
 ---
 
+## Mes dépots épingles
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Server)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-api&theme=highcontrast)](https://github.com/romainfrezier/projet-web-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-client&theme=highcontrast)](https://github.com/romainfrezier/projet-web-client)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast)](https://github.com/romainfrezier/ProjetAlgoIG3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast)](https://github.com/romainfrezier/SportAssistant)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast)](https://github.com/romainfrezier/NuitDeLInfo2022)
+
+
+---
+
 © Romain Frezier - 2022
