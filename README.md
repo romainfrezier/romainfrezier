@@ -16,11 +16,11 @@
 <a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 40px;" alt="gmail link">
 </a>
-<a href="https://www.instagram.com/lorenzo_ita_/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;" alt="instagram link">
-</a>
 <a href="https://m.me/frezierromain">
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 40px" alt="messenger link">
+</a>
+<a href="https://www.instagram.com/lorenzo_ita_/" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;" alt="instagram link">
 </a>
 </div>
 
