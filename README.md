@@ -192,17 +192,16 @@
 
 ## Mes dépots épingles
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast)](https://github.com/romainfrezier/Projet-FAR-Server)
+<a href="https://github.com/romainfrezier/Projet-FAR-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/Projet-FAR-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast" width="350px"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-api&theme=highcontrast)](https://github.com/romainfrezier/projet-web-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-client&theme=highcontrast)](https://github.com/romainfrezier/projet-web-client)
+<a href="https://github.com/romainfrezier/projet-web-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-api&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/projet-web-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-client&theme=highcontrast" width="350px"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast)](https://github.com/romainfrezier/ProjetAlgoIG3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast)](https://github.com/romainfrezier/SportAssistant)
+<a href="https://github.com/romainfrezier/ProjetAlgoIG3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/NuitDeLInfo2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast" width="350px" ></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast)](https://github.com/romainfrezier/NuitDeLInfo2022)
-
+<a href="https://github.com/romainfrezier/SportAssistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast" width="350px" ></a>
 
 ---
 
