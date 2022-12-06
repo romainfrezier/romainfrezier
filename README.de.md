@@ -33,6 +33,14 @@
 
 ---
 
+### Errungenschaften
+
+<h4>• Nuit de l'info 2022</h4><p style="font-size: 10px; font-style: italic">(Verifizierungs-E-Mail-Adresse: romain.frezier@etu.umontpellier.fr)</p>
+
+<a href="https://openbadgefactory.com/v1/assertion/2567476dbb903e7b413da74e3b453202e729d95e"><img src="img/nuit_info_2022.png" width="200px"></a>
+
+---
+
 ### Sprachen, Technologien und Softwares 
 
 <h4 style="border-bottom: blue solid 1px">• Programmiersprachen</h4>
