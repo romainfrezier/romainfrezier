@@ -1,6 +1,6 @@
 ## Langues
 
-## [🇫🇷](README.md) [🇺🇸](README.en.md) [🇩🇪](README.de.md)
+## [🇫🇷](README.md) [🇺🇸](README.en.md)
 
 ---
 
@@ -221,6 +221,7 @@
 <a href="https://github.com/romainfrezier/NuitDeLInfo2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast" width="350px" ></a>
 
 <a href="https://github.com/romainfrezier/SportAssistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast" width="350px" ></a>
+<a href="https://github.com/romainfrezier/FitJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=FitJ&theme=highcontrast" width="350px" ></a>
 
 ---
 
