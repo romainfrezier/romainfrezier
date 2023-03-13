@@ -33,15 +33,6 @@
 
 ---
 
-### Certifications
-
-<h4>• Nuit de l'info 2022</h4><p style="font-size: 10px; font-style: italic">(Adresse e-mail de verification : romain.frezier@etu.umontpellier.fr)</p>
-
-<a href="https://openbadgefactory.com/v1/assertion/2567476dbb903e7b413da74e3b453202e729d95e"><img src="img/nuit_info_2022.png" width="200px"></a>
-
-
----
-
 ### Langages, Technologies et Logiciels
 
 <h4 style="border-bottom: blue solid 1px">• Langages de programmation</h4>
@@ -211,11 +202,11 @@
 
 ## Mes dépots épingles
 
+<a href="https://github.com/romainfrezier/AWI-Project-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-Project-backend&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/AWI-project-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-project-frontend&theme=highcontrast" width="350px"></a>
+
 <a href="https://github.com/romainfrezier/Projet-FAR-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-FAR-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast" width="350px"></a>
-
-<a href="https://github.com/romainfrezier/projet-web-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-api&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/projet-web-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=projet-web-client&theme=highcontrast" width="350px"></a>
 
 <a href="https://github.com/romainfrezier/ProjetAlgoIG3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/NuitDeLInfo2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast" width="350px" ></a>
