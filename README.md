@@ -207,14 +207,14 @@
 
 ## Mes dépots épingles
 
+<a href="https://github.com/romainfrezier/Mobile-iOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Mobile-iOS&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/Mobile-iOS-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Mobile-iOS-API&theme=highcontrast" width="350px"></a>
+
 <a href="https://github.com/romainfrezier/AWI-Project-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-Project-backend&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/AWI-project-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-project-frontend&theme=highcontrast" width="350px"></a>
 
 <a href="https://github.com/romainfrezier/Projet-FAR-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-FAR-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast" width="350px"></a>
-
-<a href="https://github.com/romainfrezier/ProjetAlgoIG3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/NuitDeLInfo2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast" width="350px" ></a>
 
 <a href="https://github.com/romainfrezier/SportAssistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast" width="350px" ></a>
 <a href="https://github.com/romainfrezier/FitJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=FitJ&theme=highcontrast" width="350px" ></a>
