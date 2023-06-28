@@ -152,8 +152,8 @@
   <img alt="StarUML" width="52px" src="img/staruml-logo.png"/>
 </a>
 
-<a href="https://trello.com/en" target="blank" style="text-decoration: none">
-    <img alt="Trello" width="52px" src="img/trello-logo.png"/>
+<a href="https://notion.so" target="blank" style="text-decoration: none">
+    <img alt="Notion" width="52px" src="img/notion-logo.png"/>
 </a>
 
 <a href="https://www.jetbrains.com/idea/" target="blank" style="text-decoration: none">
