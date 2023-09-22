@@ -144,10 +144,13 @@
 
 <h4 style="border-bottom: white solid 1px">• Services</h4>
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; max-width: 300px">
 
 <a href="https://aws.amazon.com/" target="blank" style="text-decoration: none">
-  <img alt="AWS" width="52px" src="img/aws-logo.png"/>
+  <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/aws-logo-dark.png">
+        <img alt="AWS" src="img/aws-logo-light.png" width="52px" style="padding-top: 10px"/>
+    </picture>
 </a>
 
 <a href="https://firebase.google.com/" target="blank" style="text-decoration: none">
