@@ -6,11 +6,13 @@
 
 ## 👋 Hi there, I'm Romain Frezier !
 
-📚 I am in 4th year of engineering school in Computer Science and Management, at Polytech Montpellier, France. Expected graduation: June 2024.
+📚 I am in 5th (and last) year of engineering school in Computer Science and Management, at [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2018_EN.pdf), France. Expected graduation: September 2024.
 
 🏔 Originally from Haute-Savoie in France, I am passionate about sports and more particularly mountain sports such as hiking, ski touring, trail running...
 
 📷 During my outings in the mountains, I love to photograph the landscapes! You can find some of my pictures [here](https://www.instagram.com/mountainpeaktures/).
+
+🎯 I'm currently looking for a **6-month end-of-study internship** between March 1 and August 31, 2024. I'm mainly looking in the Lake Geneva area, in order to get closer to the mountains I love so much.
 
 ---
 
