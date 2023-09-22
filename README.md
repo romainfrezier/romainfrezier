@@ -6,11 +6,14 @@
 
 ## 👋 Bonjour a tous, je suis Romain Frezier
 
-📚 Je suis en 4ème année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
+📚 Je suis en 5ème (et dernière) année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
 
 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
 📷 Pendant mes sorties en montagne, j'adore photographier les paysages ! Vous pouvez retrouver certaines de mes photos [ici](https://www.instagram.com/mountainpeaktures/).
+
+🎯 Je suis actuellement en recherche de **stage de fin d'études de 6 mois** entre le 1er mars et le 31 août 2024. Je cherche principalement dans le bassin lémanique, afin de me rapprocher des montagnes que j'aime tant.
+
 
 ---
 
