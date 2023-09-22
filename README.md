@@ -6,7 +6,7 @@
 
 ## 👋 Bonjour a tous, je suis Romain Frezier
 
-📚 Je suis en 5ème (et dernière) année d'école d'ingénieur en Informatique et Gestion, à Polytech Montpellier, France. Date prévue d'obtention du diplôme : Juin 2024.
+📚 Je suis en 5ème (et dernière) année d'école d'ingénieur en Informatique et Gestion, à [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France. Date prévue d'obtention du diplôme : Septembre 2024.
 
 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
