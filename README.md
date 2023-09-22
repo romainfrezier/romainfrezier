@@ -6,7 +6,7 @@
 
 ## 👋 Bonjour a tous, je suis Romain Frezier
 
-📚 Je suis en 5ème (et dernière) année d'école d'ingénieur en Informatique et Gestion, à [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France. Date prévue d'obtention du diplôme : Septembre 2024.
+📚 Je suis en 5ᵉ (et dernière) année d'école d'ingénieur en Informatique et Gestion, à [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France. Date prévue d'obtention du diplôme : Septembre 2024.
 
 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
@@ -80,6 +80,13 @@
     </picture>
 </a>
 
+<a href="https://sass-lang.com/" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
+        <img alt="SCSS" src="img/scss-logo.png" width="52px"/>
+    </picture>
+</a>
+
 <a href="https://angular.io" target="blank" style="text-decoration: none">
   <img alt="Angular" width="52px" src="img/angular-logo.png"/>
 </a>
@@ -92,10 +99,6 @@
   <img alt="React" width="52px" src="img/react-logo.png" />
 </a>
 
-<a href="https://vuejs.org/" target="blank" style="text-decoration: none">
-  <img alt="Vue" width="52px" src="img/vue-logo.png"/>
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style="text-decoration: none">
   <img alt="JavaScript" width="52px" src="img/javascript-logo.png"/>
 </a>
@@ -106,6 +109,10 @@
 
 <a href="https://expressjs.com/" target="blank" style="text-decoration: none">
   <img alt="Express" width="52px" src="img/express-logo.png"/>
+</a>
+
+<a href="https://quarkus.io/" target="blank" style="text-decoration: none">
+  <img alt="Quarkus" width="52px" src="img/quarkus-logo.png" />
 </a>
 
 </div>
@@ -133,6 +140,28 @@
 
 </div>
 
+<br/>
+
+<h4 style="border-bottom: white solid 1px">• Services</h4>
+
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
+
+<a href="https://aws.amazon.com/" target="blank" style="text-decoration: none">
+  <img alt="AWS" width="52px" src="img/aws-logo.png"/>
+</a>
+
+<a href="https://firebase.google.com/" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/firebase-logo.png">
+        <img alt="Firebase" src="img/firebase-logo.png" width="52px" style="padding-top: 10px"/>
+    </picture>
+</a>
+
+<a href="https://www.docker.com/" target="blank" style="text-decoration: none">
+  <img alt="Docker" width="52px" src="img/docker-logo.png"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -189,6 +218,10 @@
 
 <a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
   <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
+</a>
+
+<a href="https://www.figma.com/" target="blank" style="text-decoration: none; padding-top: 10px">
+  <img alt="Figma" width="25px" src="img/figma-logo.png"/>
 </a>
 
 <br/>

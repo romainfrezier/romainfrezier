@@ -79,6 +79,14 @@
     </picture>
 </a>
 
+
+<a href="https://sass-lang.com/" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
+        <img alt="SCSS" src="img/scss-logo.png" width="52px"/>
+    </picture>
+</a>
+
 <a href="https://angular.io" target="blank" style="text-decoration: none">
   <img alt="Angular" width="52px" src="img/angular-logo.png"/>
 </a>
@@ -91,10 +99,6 @@
   <img alt="React" width="52px" src="img/react-logo.png" />
 </a>
 
-<a href="https://vuejs.org/" target="blank" style="text-decoration: none">
-  <img alt="Vue" width="52px" src="img/vue-logo.png"/>
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style="text-decoration: none">
   <img alt="JavaScript" width="52px" src="img/javascript-logo.png"/>
 </a>
@@ -105,6 +109,10 @@
 
 <a href="https://expressjs.com/" target="blank" style="text-decoration: none">
   <img alt="Express" width="52px" src="img/express-logo.png"/>
+</a>
+
+<a href="https://quarkus.io/" target="blank" style="text-decoration: none">
+  <img alt="Quarkus" width="52px" src="img/quarkus-logo.png" />
 </a>
 
 </div>
@@ -132,12 +140,34 @@
 
 </div>
 
+<br/>
+
+<h4 style="border-bottom: white solid 1px">• Services</h4>
+
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
+
+<a href="https://aws.amazon.com/" target="blank" style="text-decoration: none">
+  <img alt="AWS" width="52px" src="img/aws-logo.png"/>
+</a>
+
+<a href="https://firebase.google.com/" target="blank" style="text-decoration: none">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/firebase-logo.png">
+        <img alt="Firebase" src="img/firebase-logo.png" width="52px" style="padding-top: 10px"/>
+    </picture>
+</a>
+
+<a href="https://www.docker.com/" target="blank" style="text-decoration: none">
+  <img alt="Docker" width="52px" src="img/docker-logo.png"/>
+</a>
+
+</div>
 
 <br/>
 
 <h4 style="border-bottom: red solid 1px">• Softwares & tools</h4>
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
+<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px; align-items: center">
 
 <a href="https://www.apple.com/fr/macos/" target="blank" style="text-decoration: none">
   <img alt="macOS" width="52px" src="img/macos-logo.png"/>
@@ -189,6 +219,11 @@
 <a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
   <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
 </a>
+
+<a href="https://www.figma.com/" target="blank" style="text-decoration: none; padding-top: 10px">
+  <img alt="Figma" width="25px" src="img/figma-logo.png"/>
+</a>
+
 <br/>
 
 </div>
