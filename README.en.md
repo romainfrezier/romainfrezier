@@ -65,21 +65,6 @@
 
 <div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" style="text-decoration: none">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/html-logo-light.png">
-        <img alt="HTML5" src="img/html-logo-dark.png" width="52px"/>
-    </picture>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" style="text-decoration: none">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/css-logo-light.png">
-        <img alt="CSS3" src="img/css-logo-dark.png" width="52px"/>
-    </picture>
-</a>
-
-
 <a href="https://sass-lang.com/" target="blank" style="text-decoration: none">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
@@ -195,28 +180,12 @@
   <img alt="Intellij" width="52px" src="img/intellij-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/clion/" target="blank" style="text-decoration: none">
-  <img alt="Clion" width="52px" src="img/clion-logo.png"/>
-</a>
-
 <a href="https://www.jetbrains.com/webstorm/" target="blank" style="text-decoration: none">
   <img alt="WebStorm" width="52px" src="img/webstorm-logo.png"/>
 </a>
 
-<a href="https://www.jetbrains.com/pycharm/" target="blank" style="text-decoration: none">
-  <img alt="Pycharm" width="52px" src="img/pycharm-logo.png"/>
-</a>
-
-<a href="https://www.jetbrains.com/datagrip/" target="blank" style="text-decoration: none">
-  <img alt="DataGrip" width="52px" src="img/datagrip-logo.png"/>
-</a>
-
 <a href="https://code.visualstudio.com/" target="blank" style="text-decoration: none">
   <img alt="Visual Studio Code" width="52px" src="img/vscode-logo.png"/>
-</a>
-
-<a href="https://developer.apple.com/xcode/" target="blank" style="text-decoration: none">
-  <img alt="Xcode" width="52px" src="img/xcode-logo.png"/>
 </a>
 
 <a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
@@ -244,19 +213,11 @@
 
 ---
 
-## My pinned repositories
+## 📌 My pinned repositories
 
-<a href="https://github.com/romainfrezier/AWI-Project-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-Project-backend&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/AWI-project-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=AWI-project-frontend&theme=highcontrast" width="350px"></a>
-
-<a href="https://github.com/romainfrezier/Projet-FAR-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Client&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/Projet-FAR-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR-Server&theme=highcontrast" width="350px"></a>
-
-<a href="https://github.com/romainfrezier/ProjetAlgoIG3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ProjetAlgoIG3&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/NuitDeLInfo2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=NuitDeLInfo2022&theme=highcontrast" width="350px" ></a>
-
-<a href="https://github.com/romainfrezier/SportAssistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=SportAssistant&theme=highcontrast" width="350px" ></a>
-<a href="https://github.com/romainfrezier/FitJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=FitJ&theme=highcontrast" width="350px" ></a>
+<a href="https://github.com/romainfrezier/ChemistryDeathRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ChemistryDeathRace&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/Projet-AWI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-AWI&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
 
 ---
 
