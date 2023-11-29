@@ -218,6 +218,7 @@
 <a href="https://github.com/romainfrezier/ChemistryDeathRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ChemistryDeathRace&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-AWI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-AWI&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
+<a href="https://github.com/romainfrezier/Seasonsforce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Seasonsforce&theme=highcontrast" width="350px"></a>
 
 ---
 
