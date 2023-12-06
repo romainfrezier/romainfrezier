@@ -12,9 +12,6 @@
 
 📷 Pendant mes sorties en montagne, j'adore photographier les paysages ! Vous pouvez retrouver certaines de mes photos [ici](https://www.instagram.com/mountainpeaktures/).
 
-🎯 Je suis actuellement en recherche de **stage de fin d'études de 6 mois** entre le 1er mars et le 31 août 2024. Je cherche principalement dans le bassin lémanique, afin de me rapprocher des montagnes que j'aime tant.
-
-
 ---
 
 ### Me contacter ↘️

@@ -12,8 +12,6 @@
 
 📷 During my outings in the mountains, I love to photograph the landscapes! You can find some of my pictures [here](https://www.instagram.com/mountainpeaktures/).
 
-🎯 I'm currently looking for a **6-month end-of-study internship** between March 1 and August 31, 2024. I'm mainly looking in the Lake Geneva area, in order to get closer to the mountains I love so much.
-
 ---
 
 ### Contact me ↘️
