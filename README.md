@@ -1,6 +1,13 @@
 ## Langues
 
-## [🇫🇷](README.md) [🇺🇸](README.en.md)
+<div style="display: flex; gap: 20px;">
+<a href="README.md" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Version-Française_🇫🇷-black?labelColor=gold" alt="linkedin link">
+</a>
+<a href="README.en.md" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Version-English_🇬🇧-black?labelColor=gold" alt="linkedin link">
+</a>
+</div>
 
 ---
 
@@ -14,30 +21,39 @@
 
 ---
 
-### Me contacter ↘️
+### ↘️ Me contacter
 
-<div style="display: flex; justify-content: space-between; max-width: 600px">
+<div style="display: flex; gap: 20px;">
 <a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Contact-LinkedIn-gold?logo=linkedin&logoColor=white&labelColor=black" alt="linkedin link">
 </a>
 <a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px;" alt="gmail link">
+    <img src="https://img.shields.io/badge/Contact-Gmail-gold?logo=gmail&logoColor=white&labelColor=black" alt="gmail link">
 </a>
 <a href="https://m.me/frezierromain">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" style="height: 30px" alt="messenger link">
+<img src="https://img.shields.io/badge/Contact-Messenger-gold?logo=messenger&logoColor=white&labelColor=black" alt="messenger link">
 </a>
 <a href="https://www.instagram.com/romainfrz/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;" alt="instagram link">
+    <img src="https://img.shields.io/badge/Contact-Instagram-gold?logo=Instagram&logoColor=white&labelColor=black" alt="instagram link">
 </a>
 </div>
 
 ---
 
-### Langages, Technologies et Logiciels
+### 🔗 Liens utiles
 
-<h4 style="border-bottom: blue solid 1px">• Langages de programmation</h4>
+- [Lanagages, Technologies et Logiciels](#-langages-technologies-et-logiciels)
+- [Quelques stats](#-quelques-stats)
+- [Mes dépots épingles](#-mes-dépots-épingles)
+- [Autres dépots](https://github.com/romainfrezier?tab=repositories)
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 400px">
+---
+
+### ⚙️ Langages, Technologies et Logiciels
+
+<img src="https://img.shields.io/badge/Langages_de_programmation-black?logo=c&logoColor=gold" alt="programming languages">
+
+<div style="display: flex; gap: 20px">
 
 <a href="https://dev.java/" target="blank">
   <img alt="Java" width="52px" src="img/java-logo.png" />
@@ -59,12 +75,12 @@
 
 <br/>
 
-<h4 style="border-bottom: white solid 1px">• Programmation web et technologies</h4>
+<img src="https://img.shields.io/badge/Programmation_web_et_technologies-black?logo=spring&logoColor=gold" alt="web programming and technologies">
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
+<div style="display: flex; gap: 20px;">
 
-<a href="https://sass-lang.com/" target="blank" style="text-decoration: none">
-    <picture>
+<a href="https://sass-lang.com/" target="blank" style="text-decoration: none; display: flex;">
+    <picture style="margin: auto">
         <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
         <img alt="SCSS" src="img/scss-logo.png" width="52px"/>
     </picture>
@@ -102,9 +118,9 @@
 
 <br/>
 
-<h4 style="border-bottom: white solid 1px">• Bases de données</h4>
+<img src="https://img.shields.io/badge/Bases_de_données-black?logo=mongodb&logoColor=gold" alt="databases">
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 300px">
+<div style="display: flex; gap: 20px;">
 
 <a href="https://www.postgresql.org/" target="blank" style="text-decoration: none">
   <img alt="PostgreSQL" width="52px" src="img/postgresql-logo.png"/>
@@ -125,9 +141,9 @@
 
 <br/>
 
-<h4 style="border-bottom: white solid 1px">• Services</h4>
+<img src="https://img.shields.io/badge/Services-black?logo=docker&logoColor=gold" alt="services">
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; max-width: 300px">
+<div style="display: flex; gap: 20px;">
 
 <a href="https://aws.amazon.com/" target="blank" style="text-decoration: none">
   <picture>
@@ -151,9 +167,9 @@
 
 <br/>
 
-<h4 style="border-bottom: red solid 1px">• Logiciels et outils</h4>
+<img src="https://img.shields.io/badge/Logiciel_et_outils-black?logo=apple&logoColor=gold" alt="software and tools">
 
-<div style="display: flex; justify-content: space-between; padding: 20px; max-width: 900px">
+<div style="display: flex; gap: 20px;">
 
 <a href="https://www.apple.com/fr/macos/" target="blank" style="text-decoration: none">
   <img alt="macOS" width="52px" src="img/macos-logo.png"/>
@@ -200,7 +216,7 @@
 
 ---
 
-### 📈 Quelques stats :
+### 📈 Quelques stats
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" height="200px" alt="Github Stats">
 
@@ -211,12 +227,16 @@
 
 ---
 
-## 📌 Mes dépots épingles
+### 📌 Mes dépots épingles
 
 <a href="https://github.com/romainfrezier/Seasonsforce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Seasonsforce&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/ChemistryDeathRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ChemistryDeathRace&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-AWI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-AWI&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
+
+<a href="https://github.com/romainfrezier?tab=repositories" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Autre_repos-black?logo=github&logoColor=white" alt="instagram link">
+</a>
 
 ---
 
