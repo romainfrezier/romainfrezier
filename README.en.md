@@ -2,10 +2,10 @@
 
 <div style="display: flex; gap: 20px;">
 <a href="README.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-Française_🇫🇷-black?labelColor=gold" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-Française-black?labelColor=gold" alt="linkedin link">
 </a>
 <a href="README.en.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-English_🇬🇧-black?labelColor=gold" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-English-black?labelColor=gold" alt="linkedin link">
 </a>
 </div>
 
