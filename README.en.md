@@ -2,10 +2,10 @@
 
 <div style="display: flex; gap: 20px;">
 <a href="README.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-Française-black?labelColor=gold" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-Française-gold?logo=googletranslate&logoColor=white&labelColor=black" alt="linkedin link">
 </a>
 <a href="README.en.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-English-black?labelColor=gold" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-English-gold?logo=googletranslate&logoColor=white&labelColor=black" alt="linkedin link">
 </a>
 </div>
 
@@ -25,16 +25,16 @@
 
 <div style="display: flex; gap: 20px;">
 <a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Contact-LinkedIn-gold?logo=linkedin&logoColor=white&labelColor=black" alt="linkedin link">
+    <img src="https://img.shields.io/badge/LinkedIn-gold?logo=linkedin&logoColor=white&labelColor=black" alt="linkedin link">
 </a>
 <a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Contact-Gmail-gold?logo=gmail&logoColor=white&labelColor=black" alt="gmail link">
+    <img src="https://img.shields.io/badge/Gmail-gold?logo=gmail&logoColor=white&labelColor=black" alt="gmail link">
 </a>
 <a href="https://m.me/frezierromain">
-<img src="https://img.shields.io/badge/Contact-Messenger-gold?logo=messenger&logoColor=white&labelColor=black" alt="messenger link">
+<img src="https://img.shields.io/badge/Messenger-gold?logo=messenger&logoColor=white&labelColor=black" alt="messenger link">
 </a>
 <a href="https://www.instagram.com/romainfrz/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Contact-Instagram-gold?logo=Instagram&logoColor=white&labelColor=black" alt="instagram link">
+    <img src="https://img.shields.io/badge/Instagram-gold?logo=Instagram&logoColor=white&labelColor=black" alt="instagram link">
 </a>
 </div>
 
@@ -52,7 +52,7 @@
 ### ⚙️ Languages, Technologies and Software
 
 
-<img src="https://img.shields.io/badge/Programming_languages-black?logo=c&logoColor=gold" alt="programming languages">
+<img src="https://img.shields.io/badge/Programming_languages-gold?logo=c&logoColor=white&labelColor=black" alt="programming languages">
 
 <div style="display: flex; gap: 20px">
 <a href="https://dev.java/" target="blank">
@@ -75,7 +75,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Web_programming_and_technologies-black?logo=spring&logoColor=gold" alt="web programming and technologies">
+<img src="https://img.shields.io/badge/Web_programming_and_technologies-gold?logo=spring&logoColor=white&labelColor=black" alt="web programming and technologies">
 
 <div style="display: flex; gap: 20px;">
 
@@ -118,7 +118,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Databases-black?logo=mongodb&logoColor=gold" alt="databases">
+<img src="https://img.shields.io/badge/Databases-gold?logo=postgresql&logoColor=white&labelColor=black" alt="databases">
 
 <div style="display: flex; gap: 20px;">
 
@@ -141,7 +141,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Services-black?logo=docker&logoColor=gold" alt="services">
+<img src="https://img.shields.io/badge/Services-gold?logo=docker&logoColor=white&labelColor=black" alt="services">
 
 <div style="display: flex; gap: 20px;">
 
@@ -167,7 +167,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software_and_tools-black?logo=apple&logoColor=gold" alt="software and tools">
+<img src="https://img.shields.io/badge/Software_and_tools-gold?logo=apple&logoColor=white&labelColor=black" alt="software and tools">
 
 <div style="display: flex; gap: 20px;">
 
@@ -235,7 +235,7 @@
 <a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
 
 <a href="https://github.com/romainfrezier?tab=repositories" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Other_repos-black?logo=github&logoColor=white" alt="instagram link">
+    <img src="https://img.shields.io/badge/Other_repos-gold?logo=github&logoColor=white&labelColor=black" alt="instagram link">
 </a>
 
 ---
