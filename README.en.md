@@ -15,6 +15,8 @@
 
 📚 I am in 5th (and last) year of engineering school in Computer Science and Management, at [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2018_EN.pdf), France. Expected graduation: September 2024.
 
+<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> I'm currently doing my last year internship at <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, in Geneva.
+
 🏔 Originally from Haute-Savoie in France, I am passionate about sports and more particularly mountain sports such as hiking, ski touring, trail running...
 
 📷 During my outings in the mountains, I love to photograph the landscapes! You can find some of my pictures [here](https://www.instagram.com/mountainpeaktures/).
@@ -42,21 +44,25 @@
 
 ### 🔗 Useful links
 
-- [Languages, Technologies and Software](#-languages-technologies-and-software)
-- [Some stats](#-some-stats)
-- [My pinned repositories](#-my-pinned-repositories)
-- [Other repositories](https://github.com/romainfrezier?tab=repositories)
+- [⚙️ Languages, Technologies and Software](#-languages-technologies-and-software)
+- [📈 Some stats](#-some-stats)
+- [📌 My pinned repositories](#-my-pinned-repositories)
+- [📁 Other repositories](https://github.com/romainfrezier?tab=repositories)
 
 ---
 
 ### ⚙️ Languages, Technologies and Software
 
-
 <img src="https://img.shields.io/badge/Programming_languages-gold?logo=c&logoColor=white&labelColor=black" alt="programming languages">
 
 <div style="display: flex; gap: 20px">
+
 <a href="https://dev.java/" target="blank">
   <img alt="Java" width="52px" src="img/java-logo.png" />
+</a>
+
+<a href="https://kotlinlang.org/" target="blank">
+  <img alt="Kotlin" width="52px" src="img/kotlin-logo.png" />
 </a>
 
 <a href="https://en.cppreference.com/w/" target="blank">
@@ -79,8 +85,8 @@
 
 <div style="display: flex; gap: 20px;">
 
-<a href="https://sass-lang.com/" target="blank" style="text-decoration: none">
-    <picture>
+<a href="https://sass-lang.com/" target="blank" style="text-decoration: none; display: flex;">
+    <picture style="margin: auto">
         <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
         <img alt="SCSS" src="img/scss-logo.png" width="52px"/>
     </picture>
@@ -90,20 +96,8 @@
   <img alt="Angular" width="52px" src="img/angular-logo.png"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="blank" style="text-decoration: none">
-  <img alt="TypeScript" width="52px" src="img/typescript-logo.png"/>
-</a>
-
 <a href="https://reactjs.org" target="blank" style="text-decoration: none">
   <img alt="React" width="52px" src="img/react-logo.png" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style="text-decoration: none">
-  <img alt="JavaScript" width="52px" src="img/javascript-logo.png"/>
-</a>
-
-<a href="https://nodejs.org/en/" target="blank" style="text-decoration: none">
-  <img alt="Node.js" width="52px" src="img/nodejs-logo.png"/>
 </a>
 
 <a href="https://expressjs.com/" target="blank" style="text-decoration: none">
@@ -112,6 +106,14 @@
 
 <a href="https://quarkus.io/" target="blank" style="text-decoration: none">
   <img alt="Quarkus" width="52px" src="img/quarkus-logo.png" />
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="blank" style="text-decoration: none">
+  <img alt="Spring Boot" width="52px" src="img/spring-boot-logo.png" />
+</a>
+
+<a href="https://laravel.com/" target="blank" style="text-decoration: none">
+  <img alt="Laravel" width="52px" src="img/laravel-logo.png" />
 </a>
 
 </div>
@@ -198,10 +200,6 @@
   <img alt="WebStorm" width="52px" src="img/webstorm-logo.png"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="blank" style="text-decoration: none">
-  <img alt="Visual Studio Code" width="52px" src="img/vscode-logo.png"/>
-</a>
-
 <a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
   <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
 </a>
@@ -223,7 +221,7 @@
 
 ### 🖥 Most used languages :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=6&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=8&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
 
 ---
 

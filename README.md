@@ -11,9 +11,11 @@
 
 ---
 
-## 👋 Bonjour a tous, je suis Romain Frezier
+## 👋 Bonjour a tous, je suis Romain Frezier !
 
 📚 Je suis en 5ᵉ (et dernière) année d'école d'ingénieur en Informatique et Gestion, à [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France. Date prévue d'obtention du diplôme : Septembre 2024.
+
+<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je suis actuellement en stage de fin d'études chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève.
 
 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
@@ -42,10 +44,10 @@
 
 ### 🔗 Liens utiles
 
-- [Lanagages, Technologies et Logiciels](#-langages-technologies-et-logiciels)
-- [Quelques stats](#-quelques-stats)
-- [Mes dépots épingles](#-mes-dépots-épingles)
-- [Autres dépots](https://github.com/romainfrezier?tab=repositories)
+- [⚙️ Lanagages, Technologies et Logiciels](#-langages-technologies-et-logiciels)
+- [📈 Quelques stats](#-quelques-stats)
+- [📌 Mes dépots épingles](#-mes-dépots-épingles)
+- [📁 Autres dépots](https://github.com/romainfrezier?tab=repositories)
 
 ---
 
@@ -57,6 +59,10 @@
 
 <a href="https://dev.java/" target="blank">
   <img alt="Java" width="52px" src="img/java-logo.png" />
+</a>
+
+<a href="https://kotlinlang.org/" target="blank">
+  <img alt="Kotlin" width="52px" src="img/kotlin-logo.png" />
 </a>
 
 <a href="https://en.cppreference.com/w/" target="blank">
@@ -90,20 +96,8 @@
   <img alt="Angular" width="52px" src="img/angular-logo.png"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="blank" style="text-decoration: none">
-  <img alt="TypeScript" width="52px" src="img/typescript-logo.png"/>
-</a>
-
 <a href="https://reactjs.org" target="blank" style="text-decoration: none">
   <img alt="React" width="52px" src="img/react-logo.png" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style="text-decoration: none">
-  <img alt="JavaScript" width="52px" src="img/javascript-logo.png"/>
-</a>
-
-<a href="https://nodejs.org/en/" target="blank" style="text-decoration: none">
-  <img alt="Node.js" width="52px" src="img/nodejs-logo.png"/>
 </a>
 
 <a href="https://expressjs.com/" target="blank" style="text-decoration: none">
@@ -112,6 +106,14 @@
 
 <a href="https://quarkus.io/" target="blank" style="text-decoration: none">
   <img alt="Quarkus" width="52px" src="img/quarkus-logo.png" />
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="blank" style="text-decoration: none">
+  <img alt="Spring Boot" width="52px" src="img/spring-boot-logo.png" />
+</a>
+
+<a href="https://laravel.com/" target="blank" style="text-decoration: none">
+  <img alt="Laravel" width="52px" src="img/laravel-logo.png" />
 </a>
 
 </div>
@@ -198,10 +200,6 @@
   <img alt="WebStorm" width="52px" src="img/webstorm-logo.png"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="blank" style="text-decoration: none">
-  <img alt="Visual Studio Code" width="52px" src="img/vscode-logo.png"/>
-</a>
-
 <a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
   <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
 </a>
@@ -223,7 +221,7 @@
 
 ### 🖥 Les languages les plus utilisés :
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS&langs_count=8&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML&langs_count=8&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
 
 ---
 
