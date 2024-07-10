@@ -216,7 +216,7 @@
 
 ### 📈 Some stats
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues" height="200px" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues,stars&show=prs_merged_percentage&rank_icon=percentile" height="200px" alt="Github Stats">
 
 
 ### 🖥 Most used languages :
