@@ -13,9 +13,9 @@
 
 ## 👋 Hi there, I'm Romain Frezier !
 
-📚 I am in 5th (and last) year of engineering school in Computer Science and Management, at [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2018_EN.pdf), France. Expected graduation: September 2024.
+📚 I am an engineer in Computer Science and Management from [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2018_EN.pdf), France.
 
-<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> I'm currently doing my last year internship at <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, in Geneva.
+<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> I'm currently working as a junior fullstack engineer at <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, in Geneva.
 
 🏔 Originally from Haute-Savoie in France, I am passionate about sports and more particularly mountain sports such as hiking, ski touring, trail running...
 

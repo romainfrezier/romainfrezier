@@ -13,9 +13,9 @@
 
 ## 👋 Bonjour a tous, je suis Romain Frezier !
 
-📚 Je suis en 5ᵉ (et dernière) année d'école d'ingénieur en Informatique et Gestion, à [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France. Date prévue d'obtention du diplôme : Septembre 2024.
+📚 Je suis un ingénieur en Informatique et Gestion de [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France.
 
-<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je suis actuellement en stage de fin d'études chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève.
+<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je suis actuellement ingénieur fullstack junior chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève.
 
 🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
 
