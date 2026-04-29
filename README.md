@@ -2,24 +2,28 @@
 
 <div style="display: flex; gap: 20px;">
 <a href="README.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-Française-gold?logo=googletranslate&logoColor=white&labelColor=black" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-Française-purple?logo=googletranslate&logoColor=white&labelColor=black" alt="Version française">
 </a>
 <a href="README.en.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-English-gold?logo=googletranslate&logoColor=white&labelColor=black" alt="linkedin link">
+    <img src="https://img.shields.io/badge/Version-English-purple?logo=googletranslate&logoColor=white&labelColor=black" alt="English version">
 </a>
 </div>
 
 ---
 
-## 👋 Bonjour a tous, je suis Romain Frezier !
+## 👋 Bonjour à tous, je suis Romain Frezier !
 
-📚 Je suis un ingénieur en Informatique et Gestion de [Polytech Montpellier](https://www.polytech.umontpellier.fr/images/ecole/Plaquettes/SPECIALITE_IG_2019HD.pdf), France.
+🚀 J’ai 24 ans et je suis ingénieur en Informatique et Gestion, diplômé de [Polytech Montpellier](https://www.polytech.umontpellier.fr/), France.
 
-<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je suis actuellement ingénieur fullstack junior chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève.
+<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je travaille actuellement chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève, en tant que Developer Team Leader dans l'équipe Events & Marketing dans laquelle je gère une équipe de 12 développeurs.
 
-🏔 Originaire de Haute-Savoie, je suis passionné de sport et plus particulièrement de sport de montagne comme la randonnée, le ski de randonnée, le trail...
+💻 Développeur fullstack, j’aime construire des applications propres, maintenables et utiles, avec une attention particulière pour le backend, la qualité de code et l’éco-conception.
 
-📷 Pendant mes sorties en montagne, j'adore photographier les paysages ! Vous pouvez retrouver certaines de mes photos [ici](https://www.instagram.com/mountainpeaktures/).
+🏔 Originaire de Haute-Savoie, je suis passionné de sport, de nature et plus particulièrement de sports de montagne : randonnée, ski de randonnée, trail...
+
+📷 Pendant mes sorties en montagne, j’adore photographier les paysages !
+
+🌐 Vous pouvez aussi découvrir mon portfolio ici : [romainfrezier.com](https://romainfrezier.com)
 
 ---
 
@@ -27,16 +31,10 @@
 
 <div style="display: flex; gap: 20px;">
 <a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-gold?logo=linkedin&logoColor=white&labelColor=black" alt="linkedin link">
+    <img src="https://img.shields.io/badge/LinkedIn-purple" alt="LinkedIn">
 </a>
-<a href="mailto:romainfrezier@gmail.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gmail-gold?logo=gmail&logoColor=white&labelColor=black" alt="gmail link">
-</a>
-<a href="https://m.me/frezierromain">
-<img src="https://img.shields.io/badge/Messenger-gold?logo=messenger&logoColor=white&labelColor=black" alt="messenger link">
-</a>
-<a href="https://www.instagram.com/romainfrz/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-gold?logo=Instagram&logoColor=white&labelColor=black" alt="instagram link">
+<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Portfolio-purple" alt="Portfolio">
 </a>
 </div>
 
@@ -44,83 +42,61 @@
 
 ### 🔗 Liens utiles
 
-- [⚙️ Lanagages, Technologies et Logiciels](#-langages-technologies-et-logiciels)
+- [⚙️ Langages, technologies et logiciels](#️-langages-technologies-et-logiciels)
+- [🚀 Portfolio](#-portfolio)
 - [📈 Quelques stats](#-quelques-stats)
-- [📌 Mes dépots épingles](#-mes-dépots-épingles)
-- [📁 Autres dépots](https://github.com/romainfrezier?tab=repositories)
+- [📌 Mes dépôts épinglés](#-mes-dépôts-épinglés)
+- [📁 Autres dépôts](https://github.com/romainfrezier?tab=repositories)
 
 ---
 
-### ⚙️ Langages, Technologies et Logiciels
+### ⚙️ Langages, technologies et logiciels
 
-<img src="https://img.shields.io/badge/Langages_de_programmation-gold?logo=c&logoColor=white&labelColor=black" alt="programming languages">
+<img src="https://img.shields.io/badge/Langages_de_programmation-purple?logo=c&logoColor=white&labelColor=black" alt="Programming languages">
 
 <div style="display: flex; gap: 20px">
 
+<a href="https://www.php.net/" target="blank">
+  <img alt="PHP" width="52px" src="img/php-logo.png" />
+</a>
+
 <a href="https://dev.java/" target="blank">
   <img alt="Java" width="52px" src="img/java-logo.png" />
-</a>
-
-<a href="https://kotlinlang.org/" target="blank">
-  <img alt="Kotlin" width="52px" src="img/kotlin-logo.png" />
-</a>
-
-<a href="https://en.cppreference.com/w/" target="blank">
-  <img alt="C" width="52px" src="img/c-logo.png" />
 </a>
 
 <a href="https://www.python.org/" target="blank">
   <img alt="Python" width="52px" src="img/python-logo.png" />
 </a>
 
-<a href="https://www.swift.org/" target="blank">
-  <img alt="Swift" width="52px" src="img/swift-logo.png"/>
-</a>
-
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Programmation_web_et_technologies-gold?logo=spring&logoColor=white&labelColor=black" alt="web programming and technologies">
+<img src="https://img.shields.io/badge/Web_et_frameworks-purple?logo=angular&logoColor=white&labelColor=black" alt="Web and frameworks">
 
 <div style="display: flex; gap: 20px;">
 
-<a href="https://sass-lang.com/" target="blank" style="text-decoration: none; display: flex;">
-    <picture style="margin: auto">
-        <source media="(prefers-color-scheme: dark)" srcset="img/scss-logo.png">
-        <img alt="SCSS" src="img/scss-logo.png" width="52px"/>
-    </picture>
-</a>
-
-<a href="https://angular.io" target="blank" style="text-decoration: none">
-  <img alt="Angular" width="52px" src="img/angular-logo.png"/>
-</a>
-
-<a href="https://reactjs.org" target="blank" style="text-decoration: none">
-  <img alt="React" width="52px" src="img/react-logo.png" />
-</a>
-
-<a href="https://expressjs.com/" target="blank" style="text-decoration: none">
-  <img alt="Express" width="52px" src="img/express-logo.png"/>
-</a>
-
-<a href="https://quarkus.io/" target="blank" style="text-decoration: none">
-  <img alt="Quarkus" width="52px" src="img/quarkus-logo.png" />
+<a href="https://laravel.com/" target="blank" style="text-decoration: none">
+  <img alt="Laravel" width="52px" src="img/laravel-logo.png" />
 </a>
 
 <a href="https://spring.io/projects/spring-boot" target="blank" style="text-decoration: none">
   <img alt="Spring Boot" width="52px" src="img/spring-boot-logo.png" />
 </a>
 
-<a href="https://laravel.com/" target="blank" style="text-decoration: none">
-  <img alt="Laravel" width="52px" src="img/laravel-logo.png" />
+<a href="https://angular.dev/" target="blank" style="text-decoration: none">
+  <img alt="Angular" width="52px" src="img/angular-logo.png"/>
+</a>
+
+<a href="https://react.dev/" target="blank" style="text-decoration: none">
+  <img alt="React" width="52px" src="img/react-logo.png" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Bases_de_données-gold?logo=postgresql&logoColor=white&labelColor=black" alt="databases">
+<img src="https://img.shields.io/badge/Bases_de_données-purple?logo=postgresql&logoColor=white&labelColor=black" alt="Databases">
 
 <div style="display: flex; gap: 20px;">
 
@@ -128,48 +104,43 @@
   <img alt="PostgreSQL" width="52px" src="img/postgresql-logo.png"/>
 </a>
 
-<a href="https://www.mongodb.com" target="blank" style="text-decoration: none">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/mongo-db-logo-light.png">
-        <img alt="Mongo" src="img/mongo-db-logo-dark.png" width="104px" style="padding-top: 10px"/>
-    </picture>
+<a href="https://mariadb.org/" target="blank" style="text-decoration: none">
+  <img alt="MariaDB" width="52px" src="img/mariadb-logo.png"/>
 </a>
 
-<a href="https://www.mysql.com/" target="blank" style="text-decoration: none">
-  <img alt="MySQL" width="52px" src="img/mysql-logo.png"/>
+<a href="https://www.mongodb.com" target="blank" style="text-decoration: none">
+  <img alt="MongoDB" src="img/mongo-db-logo-dark.png" width="104px" style="padding-top: 10px"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Services-gold?logo=docker&logoColor=white&labelColor=black" alt="services">
+<img src="https://img.shields.io/badge/DevOps_et_services-purple?logo=docker&logoColor=white&labelColor=black" alt="DevOps and services">
 
 <div style="display: flex; gap: 20px;">
-
-<a href="https://aws.amazon.com/" target="blank" style="text-decoration: none">
-  <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/aws-logo-dark.png">
-        <img alt="AWS" src="img/aws-logo-light.png" width="52px" style="padding-top: 10px"/>
-    </picture>
-</a>
-
-<a href="https://firebase.google.com/" target="blank" style="text-decoration: none">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/firebase-logo.png">
-        <img alt="Firebase" src="img/firebase-logo.png" width="52px" style="padding-top: 10px"/>
-    </picture>
-</a>
 
 <a href="https://www.docker.com/" target="blank" style="text-decoration: none">
   <img alt="Docker" width="52px" src="img/docker-logo.png"/>
 </a>
 
+<a href="https://github.com/features/actions" target="blank" style="text-decoration: none">
+  <img alt="GitHub Actions" width="52px" src="img/github-logo-dark.png"/>
+</a>
+
+<a href="https://www.sonarsource.com/products/sonarqube/" target="blank" style="text-decoration: none">
+  <img alt="SonarQube" width="104px" src="img/sonarqube-logo.png"/>
+</a>
+
+<a href="https://www.infomaniak.com/fr/hebergement/serveur-cloud" target="blank" style="text-decoration: none">
+  <img alt="Infomaniak" width="52px" src="img/logo-k.svg"/>
+</a>
+
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Logiciel_et_outils-gold?logo=apple&logoColor=white&labelColor=black" alt="software and tools">
+<img src="https://img.shields.io/badge/Logiciels_et_outils-purple?logo=apple&logoColor=white&labelColor=black" alt="Software and tools">
 
 <div style="display: flex; gap: 20px;">
 
@@ -177,53 +148,37 @@
   <img alt="macOS" width="52px" src="img/macos-logo.png"/>
 </a>
 
-<a href="https://github.com/" target="blank" style="text-decoration: none">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/github-logo-light.png">
-        <img alt="GitHub" src="img/github-logo-dark.png" width="52px"/>
-    </picture>
+<a href="https://www.jetbrains.com/" target="blank" style="text-decoration: none">
+  <img alt="WebStorm" width="156px" src="img/jetbrains-logo.png"/>
 </a>
-
-<a href="https://notion.so" target="blank" style="text-decoration: none">
-    <img alt="Notion" width="52px" src="img/notion-logo.png"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="blank" style="text-decoration: none">
-  <img alt="Intellij" width="52px" src="img/intellij-logo.png"/>
-</a>
-
-<a href="https://www.jetbrains.com/webstorm/" target="blank" style="text-decoration: none">
-  <img alt="WebStorm" width="52px" src="img/webstorm-logo.png"/>
-</a>
-
-<a href="https://www.gimp.org/" target="blank" style="text-decoration: none; padding-top: 10px">
-  <img alt="Gimp" width="52px" src="img/gimp-logo.png"/>
-</a>
-
-<a href="https://www.figma.com/" target="blank" style="text-decoration: none; padding-top: 10px">
-  <img alt="Figma" width="25px" src="img/figma-logo.png"/>
-</a>
-
-<br/>
 
 </div>
 
 ---
 
+### 🚀 Portfolio
+
+Mon portfolio présente mes compétences, mon parcours et permet de me contacter directement. Il supporte aussi l’internationalisation français/anglais, plusieurs thèmes, des tests avec Jest, une analyse SonarQube et un déploiement via GitHub Actions sur VPS Infomaniak.
+
+<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Voir_le_portfolio-purple?logo=react&logoColor=white&labelColor=black" alt="Voir le portfolio">
+</a>
+
+---
+
 ### 📈 Quelques stats
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues,stars&show=prs_merged_percentage&rank_icon=percentile" height="200px" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues,stars&show=prs_merged_percentage&rank_icon=percentile" height="200px" alt="GitHub Stats">
 
+### 🖥 Les langages les plus utilisés
 
-### 🖥 Les languages les plus utilisés :
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML,SCSS,VUE,CMAKE&langs_count=8&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
 
 ---
 
-### 📌 Mes dépots épingles
-
-<a href="https://github.com/romainfrezier/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Portfolio&theme=highcontrast" width="350px"></a>
+### 📌 Mes dépôts épinglés
 
 <a href="https://github.com/romainfrezier/Seasonsforce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Seasonsforce&theme=highcontrast" width="350px"></a>
 <a href="https://github.com/romainfrezier/ChemistryDeathRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ChemistryDeathRace&theme=highcontrast" width="350px"></a>
@@ -231,9 +186,9 @@
 <a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
 
 <a href="https://github.com/romainfrezier?tab=repositories" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Other_repos-gold?logo=github&logoColor=white&labelColor=black" alt="instagram link">
+    <img src="https://img.shields.io/badge/Autres_dépôts-purple?logo=github&logoColor=white&labelColor=black" alt="Autres dépôts">
 </a>
 
 ---
 
-© Romain Frezier - 2024
+© Romain Frezier - 2026
