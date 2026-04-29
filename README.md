@@ -161,6 +161,12 @@
 Mon portfolio présente mes compétences, mon parcours et permet de me contacter directement. Il supporte aussi l’internationalisation français/anglais, plusieurs thèmes, des tests avec Jest, une analyse SonarQube et un déploiement via GitHub Actions sur VPS Infomaniak.
 
 <a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
+  <img alt="portfolio" width="400px" src="img/romainfrezier.com.webp"/>
+</a>
+
+<br/><br/>
+
+<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Voir_le_portfolio-purple?logo=react&logoColor=white&labelColor=black" alt="Voir le portfolio">
 </a>
 

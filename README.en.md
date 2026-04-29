@@ -161,6 +161,12 @@
 My portfolio showcases my skills, my background, and allows direct contact. It also supports French/English internationalization, multiple themes, Jest testing, SonarQube analysis, and deployment via GitHub Actions on an Infomaniak VPS.
 
 <a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
+<img alt="portfolio" width="400px" src="img/romainfrezier.com.webp"/>
+</a>
+
+<br/><br/>
+
+<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/View_portfolio-purple?logo=react&logoColor=white&labelColor=black" alt="View portfolio">
 </a>
 
