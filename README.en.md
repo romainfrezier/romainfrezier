@@ -9,9 +9,7 @@
   <p>I turn ideas into web products that are simple, reliable and enjoyable to use.</p>
   <p>
     <a href="https://romainfrezier.com">Personal website</a> ·
-    <a href="https://www.linkedin.com/in/romainfrezier/">LinkedIn</a> ·
-    <a href="mailto:romainfrezier@gmail.com">Email</a> ·
-    <a href="https://www.instagram.com/romainfrz/">Instagram</a>
+    <a href="https://www.linkedin.com/in/romainfrezier/">LinkedIn</a>
   </p>
 </div>
 
@@ -22,9 +20,8 @@
 - 💼 Developer Team Leader at [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/en), in Geneva. I lead a team of 12 developers in the Events & Marketing team.
 - 🎓 Engineer in Computer Science and Management, graduated from [Polytech Montpellier](https://www.polytech.umontpellier.fr/).
 - 💻 I enjoy building clean and maintainable applications, with a strong focus on backend, code quality and eco-design.
-- 🧰 I like vibe coding as a way to get an idea off the ground quickly, then take the time to turn it into a real solution with a clear architecture and choices that hold up.
+- 🧰 I like vibe coding for exploring an idea quickly, then turning the prototype into something solid: an architecture that makes sense and technical choices that hold up.
 - 🏔 Originally from Haute-Savoie, I recharge by hiking, ski touring and trail running.
-- 📷 I photograph mountain landscapes on [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
 ## My skills
 
@@ -53,14 +50,6 @@ A focused selection of technologies and practices I use to build, maintain and e
       <sub>Modeling, querying and evolving data according to product needs.</sub>
     </td>
     <td width="50%" valign="top">
-      <p><strong>Frontend & collaboration</strong></p>
-      <p><img src="img/react-logo.png" alt="React" width="40" /> <img src="img/angular-logo.png" alt="Angular" width="40" /></p>
-      <p>React · Angular · TypeScript</p>
-      <sub>Contributing effectively to interfaces and collaborating with fullstack teams.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <p><strong>Leadership</strong></p>
       <p>Communication · Organization · Empathy · Adaptability</p>
       <sub>Supporting the team, clarifying priorities and moving forward calmly.</sub>

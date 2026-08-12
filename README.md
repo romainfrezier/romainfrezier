@@ -9,9 +9,7 @@
   <p>Je transforme des idées en produits web simples, solides et agréables à utiliser.</p>
   <p>
     <a href="https://romainfrezier.com">Site personnel</a> ·
-    <a href="https://www.linkedin.com/in/romainfrezier/">LinkedIn</a> ·
-    <a href="mailto:romainfrezier@gmail.com">Email</a> ·
-    <a href="https://www.instagram.com/romainfrz/">Instagram</a>
+    <a href="https://www.linkedin.com/in/romainfrezier/">LinkedIn</a>
   </p>
 </div>
 
@@ -22,9 +20,8 @@
 - 💼 Developer Team Leader chez [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/fr), à Genève. Je manage une équipe de 12 développeurs au sein de l’équipe Events & Marketing.
 - 🎓 Ingénieur en Informatique et Gestion, diplômé de [Polytech Montpellier](https://www.polytech.umontpellier.fr/).
 - 💻 J’aime construire des applications propres et maintenables, avec une attention particulière pour le backend, la qualité de code et l’éco-conception.
-- 🧰 J’aime bien le vibe coding pour donner rapidement vie à une idée, puis prendre le temps d’en faire une vraie solution, avec une architecture claire et des choix qui tiennent la route.
+- 🧰 J’aime le vibe coding pour explorer une idée rapidement, puis transformer le prototype en quelque chose de propre : une architecture qui tient la route et des choix techniques qui ont du sens.
 - 🏔 Originaire de Haute-Savoie, je recharge les batteries en randonnée, ski de randonnée et trail.
-- 📷 Je photographie les paysages de montagne sur [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
 ## Mes compétences
 
@@ -53,14 +50,6 @@ Une sélection de technologies et de pratiques que j’utilise pour construire, 
       <sub>Modéliser, interroger et faire évoluer les données selon les besoins produit.</sub>
     </td>
     <td width="50%" valign="top">
-      <p><strong>Frontend & collaboration</strong></p>
-      <p><img src="img/react-logo.png" alt="React" width="40" /> <img src="img/angular-logo.png" alt="Angular" width="40" /></p>
-      <p>React · Angular · TypeScript</p>
-      <sub>Contribuer efficacement aux interfaces et mieux collaborer avec les équipes fullstack.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <p><strong>Leadership</strong></p>
       <p>Communication · Organisation · Empathie · Adaptabilité</p>
       <sub>Accompagner l’équipe, clarifier les priorités et avancer sereinement.</sub>
