@@ -1,200 +1,123 @@
-## Langues
+<div align="right">
+  <a href="README.md">🇫🇷 Français</a> · <a href="README.en.md">🇬🇧 English</a>
+</div>
 
-<div style="display: flex; gap: 20px;">
-<a href="README.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-Française-purple?logo=googletranslate&logoColor=white&labelColor=black" alt="Version française">
-</a>
-<a href="README.en.md" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Version-English-purple?logo=googletranslate&logoColor=white&labelColor=black" alt="English version">
-</a>
+<div align="center">
+  <img src="img/logo-k.svg" alt="Infomaniak" width="72" />
+  <h1>Romain Frezier</h1>
+  <p><strong>Developer Team Leader · Full-stack engineer · Genève</strong></p>
+  <p>Je transforme des idées en produits web simples, solides et agréables à utiliser.</p>
+  <p>
+    <a href="https://romainfrezier.com">Site personnel</a> ·
+    <a href="https://www.linkedin.com/in/romainfrezier/">LinkedIn</a> ·
+    <a href="mailto:romainfrezier@gmail.com">Email</a> ·
+    <a href="https://www.instagram.com/romainfrz/">Instagram</a>
+  </p>
 </div>
 
 ---
 
-## 👋 Bonjour à tous, je suis Romain Frezier !
+## À propos
 
-🚀 J’ai 24 ans et je suis ingénieur en Informatique et Gestion, diplômé de [Polytech Montpellier](https://www.polytech.umontpellier.fr/), France.
+- 💼 Developer Team Leader chez [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/fr), à Genève. Je manage une équipe de 12 développeurs au sein de l’équipe Events & Marketing.
+- 🎓 Ingénieur en Informatique et Gestion, diplômé de [Polytech Montpellier](https://www.polytech.umontpellier.fr/).
+- 💻 J’aime construire des applications propres et maintenables, avec une attention particulière pour le backend, la qualité de code et l’éco-conception.
+- 🏔 Originaire de Haute-Savoie, je recharge les batteries en randonnée, ski de randonnée et trail.
+- 📷 Je photographie les paysages de montagne sur [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
-<img src="img/logo-k.svg" style="width: 10px; margin-right: 3px; margin-left: 2px;" alt="Logo Infomaniak"/> Je travaille actuellement chez <a href="https://www.infomaniak.com/fr">Infomaniak | The Ethical Cloud</a>, à Genève, en tant que Developer Team Leader dans l'équipe Events & Marketing dans laquelle je gère une équipe de 12 développeurs.
+## Stack
 
-💻 Développeur fullstack, j’aime construire des applications propres, maintenables et utiles, avec une attention particulière pour le backend, la qualité de code et l’éco-conception.
+<table>
+  <tr>
+    <th align="left">Langages</th>
+    <th align="left">Web & frameworks</th>
+    <th align="left">Data</th>
+    <th align="left">DevOps & outils</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.php.net/"><img src="img/php-logo.png" alt="PHP" width="40" /></a>
+      <a href="https://dev.java/"><img src="img/java-logo.png" alt="Java" width="40" /></a>
+      <a href="https://www.python.org/"><img src="img/python-logo.png" alt="Python" width="40" /></a>
+      <br /><sub>PHP · Java · Python · TypeScript</sub>
+    </td>
+    <td valign="top">
+      <a href="https://laravel.com/"><img src="img/laravel-logo.png" alt="Laravel" width="40" /></a>
+      <a href="https://spring.io/projects/spring-boot"><img src="img/spring-boot-logo.png" alt="Spring Boot" width="40" /></a>
+      <a href="https://angular.dev/"><img src="img/angular-logo.png" alt="Angular" width="40" /></a>
+      <a href="https://react.dev/"><img src="img/react-logo.png" alt="React" width="40" /></a>
+      <br /><sub>Laravel · Spring Boot · Angular · React</sub>
+    </td>
+    <td valign="top">
+      <a href="https://www.postgresql.org/"><img src="img/postgresql-logo.png" alt="PostgreSQL" width="40" /></a>
+      <a href="https://mariadb.org/"><img src="img/mariadb-logo.png" alt="MariaDB" width="40" /></a>
+      <a href="https://www.mongodb.com/"><img src="img/mongo-db-logo-dark.png" alt="MongoDB" width="72" /></a>
+      <br /><sub>PostgreSQL · MariaDB · MongoDB</sub>
+    </td>
+    <td valign="top">
+      <a href="https://www.docker.com/"><img src="img/docker-logo.png" alt="Docker" width="40" /></a>
+      <a href="https://github.com/features/actions"><img src="img/github-logo-dark.png" alt="GitHub Actions" width="40" /></a>
+      <a href="https://www.sonarsource.com/products/sonarqube/"><img src="img/sonarqube-logo.png" alt="SonarQube" width="72" /></a>
+      <br /><sub>Docker · GitHub Actions · SonarQube</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <a href="https://www.infomaniak.com/fr/hebergement/serveur-cloud"><img src="img/logo-k.svg" alt="Infomaniak" width="40" /></a>
+      <a href="https://www.apple.com/fr/macos/"><img src="img/macos-logo.png" alt="macOS" width="40" /></a>
+      <a href="https://www.jetbrains.com/"><img src="img/jetbrains-logo.png" alt="JetBrains" width="96" /></a>
+      <br /><sub>Infomaniak · macOS · JetBrains</sub>
+    </td>
+  </tr>
+</table>
 
-🏔 Originaire de Haute-Savoie, je suis passionné de sport, de nature et plus particulièrement de sports de montagne : randonnée, ski de randonnée, trail...
+## Portfolio
 
-📷 Pendant mes sorties en montagne, j’adore photographier les paysages !
+Mon portfolio présente mon parcours, mes compétences et mes projets. Il supporte le français et l’anglais, plusieurs thèmes, des tests Jest, une analyse SonarQube et un déploiement via GitHub Actions sur un VPS Infomaniak.
 
-🌐 Vous pouvez aussi découvrir mon portfolio ici : [romainfrezier.com](https://romainfrezier.com)
+<p align="center">
+  <a href="https://romainfrezier.com"><img src="img/romainfrezier.com.webp" alt="Aperçu du portfolio romainfrezier.com" width="640" /></a>
+</p>
 
----
+<p align="center">
+  <a href="https://romainfrezier.com">Découvrir le portfolio →</a>
+</p>
 
-### ↘️ Me contacter
+## Projets publics
 
-<div style="display: flex; gap: 20px;">
-<a href="https://www.linkedin.com/in/romainfrezier/" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-purple" alt="LinkedIn">
-</a>
-<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Portfolio-purple" alt="Portfolio">
-</a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romainfrezier/key-recorder"><strong>key-recorder</strong></a><br />
+      Application macOS open source pour suivre et analyser son usage du clavier.<br />
+      <sub>Swift · macOS · open source</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romainfrezier/Portfolio"><strong>Portfolio</strong></a><br />
+      Mon portfolio personnel et mes expérimentations front-end.<br />
+      <sub>TypeScript · web</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romainfrezier/Seasonsforce"><strong>Seasonsforce</strong></a><br />
+      Projet d’école autour d’une architecture microservices et d’une application mobile.<br />
+      <sub>Spring · React Native · microservices</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romainfrezier/Projet-FAR"><strong>Projet-FAR</strong></a><br />
+      Système de messagerie fonctionnant sur un réseau local.<br />
+      <sub>C · réseau · projet d’école</sub>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🔗 Liens utiles
-
-- [⚙️ Langages, technologies et logiciels](#️-langages-technologies-et-logiciels)
-- [🚀 Portfolio](#-portfolio)
-- [📈 Quelques stats](#-quelques-stats)
-- [📌 Mes dépôts épinglés](#-mes-dépôts-épinglés)
-- [📁 Autres dépôts](https://github.com/romainfrezier?tab=repositories)
-
----
-
-### ⚙️ Langages, technologies et logiciels
-
-<img src="https://img.shields.io/badge/Langages_de_programmation-purple?logo=c&logoColor=white&labelColor=black" alt="Programming languages">
-
-<div style="display: flex; gap: 20px">
-
-<a href="https://www.php.net/" target="blank">
-  <img alt="PHP" width="52px" src="img/php-logo.png" />
-</a>
-
-<a href="https://dev.java/" target="blank">
-  <img alt="Java" width="52px" src="img/java-logo.png" />
-</a>
-
-<a href="https://www.python.org/" target="blank">
-  <img alt="Python" width="52px" src="img/python-logo.png" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Web_et_frameworks-purple?logo=angular&logoColor=white&labelColor=black" alt="Web and frameworks">
-
-<div style="display: flex; gap: 20px;">
-
-<a href="https://laravel.com/" target="blank" style="text-decoration: none">
-  <img alt="Laravel" width="52px" src="img/laravel-logo.png" />
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="blank" style="text-decoration: none">
-  <img alt="Spring Boot" width="52px" src="img/spring-boot-logo.png" />
-</a>
-
-<a href="https://angular.dev/" target="blank" style="text-decoration: none">
-  <img alt="Angular" width="52px" src="img/angular-logo.png"/>
-</a>
-
-<a href="https://react.dev/" target="blank" style="text-decoration: none">
-  <img alt="React" width="52px" src="img/react-logo.png" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Bases_de_données-purple?logo=postgresql&logoColor=white&labelColor=black" alt="Databases">
-
-<div style="display: flex; gap: 20px;">
-
-<a href="https://www.postgresql.org/" target="blank" style="text-decoration: none">
-  <img alt="PostgreSQL" width="52px" src="img/postgresql-logo.png"/>
-</a>
-
-<a href="https://mariadb.org/" target="blank" style="text-decoration: none">
-  <img alt="MariaDB" width="52px" src="img/mariadb-logo.png"/>
-</a>
-
-<a href="https://www.mongodb.com" target="blank" style="text-decoration: none">
-  <img alt="MongoDB" src="img/mongo-db-logo-dark.png" width="104px" style="padding-top: 10px"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/DevOps_et_services-purple?logo=docker&logoColor=white&labelColor=black" alt="DevOps and services">
-
-<div style="display: flex; gap: 20px;">
-
-<a href="https://www.docker.com/" target="blank" style="text-decoration: none">
-  <img alt="Docker" width="52px" src="img/docker-logo.png"/>
-</a>
-
-<a href="https://github.com/features/actions" target="blank" style="text-decoration: none">
-  <img alt="GitHub Actions" width="52px" src="img/github-logo-dark.png"/>
-</a>
-
-<a href="https://www.sonarsource.com/products/sonarqube/" target="blank" style="text-decoration: none">
-  <img alt="SonarQube" width="104px" src="img/sonarqube-logo.png"/>
-</a>
-
-<a href="https://www.infomaniak.com/fr/hebergement/serveur-cloud" target="blank" style="text-decoration: none">
-  <img alt="Infomaniak" width="52px" src="img/logo-k.svg"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Logiciels_et_outils-purple?logo=apple&logoColor=white&labelColor=black" alt="Software and tools">
-
-<div style="display: flex; gap: 20px;">
-
-<a href="https://www.apple.com/fr/macos/" target="blank" style="text-decoration: none">
-  <img alt="macOS" width="52px" src="img/macos-logo.png"/>
-</a>
-
-<a href="https://www.jetbrains.com/" target="blank" style="text-decoration: none">
-  <img alt="WebStorm" width="156px" src="img/jetbrains-logo.png"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/romainfrezier?tab=repositories">Voir tous mes dépôts →</a>
+</p>
 
 ---
 
-### 🚀 Portfolio
-
-Mon portfolio présente mes compétences, mon parcours et permet de me contacter directement. Il supporte aussi l’internationalisation français/anglais, plusieurs thèmes, des tests avec Jest, une analyse SonarQube et un déploiement via GitHub Actions sur VPS Infomaniak.
-
-<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
-  <img alt="portfolio" width="400px" src="img/romainfrezier.com.webp"/>
-</a>
-
-<br/><br/>
-
-<a href="https://romainfrezier.com" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Voir_le_portfolio-purple?logo=react&logoColor=white&labelColor=black" alt="Voir le portfolio">
-</a>
-
----
-
-### 📈 Quelques stats
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=romainfrezier&show_icons=true&theme=highcontrast&count_private=true&hide=issues,stars&show=prs_merged_percentage&rank_icon=percentile" height="200px" alt="GitHub Stats">
-
-### 🖥 Les langages les plus utilisés
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfrezier&hide=CSS,HTML,SCSS,VUE,CMAKE&langs_count=8&theme=highcontrast&layout=compact&exclude_repo=Projet-FAR-Doc" height="200px" alt="Most Used Languages">
-
----
-
-### 📌 Mes dépôts épinglés
-
-<a href="https://github.com/romainfrezier/Seasonsforce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Seasonsforce&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/ChemistryDeathRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=ChemistryDeathRace&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/Projet-AWI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-AWI&theme=highcontrast" width="350px"></a>
-<a href="https://github.com/romainfrezier/Projet-FAR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=romainfrezier&repo=Projet-FAR&theme=highcontrast" width="350px"></a>
-
-<a href="https://github.com/romainfrezier?tab=repositories" target="blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Autres_dépôts-purple?logo=github&logoColor=white&labelColor=black" alt="Autres dépôts">
-</a>
-
----
-
-© Romain Frezier - 2026
+<p align="center">
+  <sub>© 2026 Romain Frezier · Construit entre les Alpes et le cloud.</sub>
+</p>
