@@ -22,6 +22,7 @@
 - 💼 Developer Team Leader at [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/en), in Geneva. I lead a team of 12 developers in the Events & Marketing team.
 - 🎓 Engineer in Computer Science and Management, graduated from [Polytech Montpellier](https://www.polytech.umontpellier.fr/).
 - 💻 I enjoy building clean and maintainable applications, with a strong focus on backend, code quality and eco-design.
+- 🧰 I like vibe coding as a way to get an idea off the ground quickly, then take the time to turn it into a real solution with a clear architecture and choices that hold up.
 - 🏔 Originally from Haute-Savoie, I recharge by hiking, ski touring and trail running.
 - 📷 I photograph mountain landscapes on [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
@@ -108,5 +109,5 @@ My portfolio showcases my background, skills and projects. It supports English a
 ---
 
 <p align="center">
-  <sub>© 2026 Romain Frezier · Built between the Alps and the cloud.</sub>
+  <sub>© 2026 Romain Frezier.</sub>
 </p>
