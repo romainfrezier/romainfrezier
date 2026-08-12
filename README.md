@@ -25,48 +25,44 @@
 - 🏔 Originaire de Haute-Savoie, je recharge les batteries en randonnée, ski de randonnée et trail.
 - 📷 Je photographie les paysages de montagne sur [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
-## Stack
+## Mes compétences
+
+Une sélection de technologies et de pratiques que j’utilise pour construire, maintenir et faire évoluer des produits web.
 
 <table>
   <tr>
-    <th align="left">Langages</th>
-    <th align="left">Web & frameworks</th>
-    <th align="left">Data</th>
-    <th align="left">DevOps & outils</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.php.net/"><img src="img/php-logo.png" alt="PHP" width="40" /></a>
-      <a href="https://dev.java/"><img src="img/java-logo.png" alt="Java" width="40" /></a>
-      <a href="https://www.python.org/"><img src="img/python-logo.png" alt="Python" width="40" /></a>
-      <br /><sub>PHP · Java · Python · TypeScript</sub>
+    <td width="50%" valign="top">
+      <p><strong>Stack principale</strong></p>
+      <p><img src="img/laravel-logo.png" alt="Laravel" width="40" /> <img src="img/php-logo.png" alt="PHP" width="40" /> <img src="img/docker-logo.png" alt="Docker" width="40" /></p>
+      <p>Laravel · PHP · Docker · Git</p>
+      <sub>Mon socle quotidien pour construire, maintenir et livrer des applications web.</sub>
     </td>
-    <td valign="top">
-      <a href="https://laravel.com/"><img src="img/laravel-logo.png" alt="Laravel" width="40" /></a>
-      <a href="https://spring.io/projects/spring-boot"><img src="img/spring-boot-logo.png" alt="Spring Boot" width="40" /></a>
-      <a href="https://angular.dev/"><img src="img/angular-logo.png" alt="Angular" width="40" /></a>
-      <a href="https://react.dev/"><img src="img/react-logo.png" alt="React" width="40" /></a>
-      <br /><sub>Laravel · Spring Boot · Angular · React</sub>
-    </td>
-    <td valign="top">
-      <a href="https://www.postgresql.org/"><img src="img/postgresql-logo.png" alt="PostgreSQL" width="40" /></a>
-      <a href="https://mariadb.org/"><img src="img/mariadb-logo.png" alt="MariaDB" width="40" /></a>
-      <a href="https://www.mongodb.com/"><img src="img/mongo-db-logo-dark.png" alt="MongoDB" width="72" /></a>
-      <br /><sub>PostgreSQL · MariaDB · MongoDB</sub>
-    </td>
-    <td valign="top">
-      <a href="https://www.docker.com/"><img src="img/docker-logo.png" alt="Docker" width="40" /></a>
-      <a href="https://github.com/features/actions"><img src="img/github-logo-dark.png" alt="GitHub Actions" width="40" /></a>
-      <a href="https://www.sonarsource.com/products/sonarqube/"><img src="img/sonarqube-logo.png" alt="SonarQube" width="72" /></a>
-      <br /><sub>Docker · GitHub Actions · SonarQube</sub>
+    <td width="50%" valign="top">
+      <p><strong>Cloud & opérations</strong></p>
+      <p><img src="img/logo-k.svg" alt="Infomaniak" width="40" /></p>
+      <p>Kubernetes · Infomaniak · AWS</p>
+      <sub>Comprendre les environnements d’exécution, les déploiements et les contraintes d’exploitation.</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center">
-      <a href="https://www.infomaniak.com/fr/hebergement/serveur-cloud"><img src="img/logo-k.svg" alt="Infomaniak" width="40" /></a>
-      <a href="https://www.apple.com/fr/macos/"><img src="img/macos-logo.png" alt="macOS" width="40" /></a>
-      <a href="https://www.jetbrains.com/"><img src="img/jetbrains-logo.png" alt="JetBrains" width="96" /></a>
-      <br /><sub>Infomaniak · macOS · JetBrains</sub>
+    <td width="50%" valign="top">
+      <p><strong>Données</strong></p>
+      <p><img src="img/mariadb-logo.png" alt="MariaDB" width="40" /> <img src="img/postgresql-logo.png" alt="PostgreSQL" width="40" /> <img src="img/mongo-db-logo-dark.png" alt="MongoDB" width="72" /></p>
+      <p>MariaDB · PostgreSQL · MongoDB</p>
+      <sub>Modéliser, interroger et faire évoluer les données selon les besoins produit.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Frontend & collaboration</strong></p>
+      <p><img src="img/react-logo.png" alt="React" width="40" /> <img src="img/angular-logo.png" alt="Angular" width="40" /></p>
+      <p>React · Angular · TypeScript</p>
+      <sub>Contribuer efficacement aux interfaces et mieux collaborer avec les équipes fullstack.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p><strong>Leadership</strong></p>
+      <p>Communication · Organisation · Empathie · Adaptabilité</p>
+      <sub>Accompagner l’équipe, clarifier les priorités et avancer sereinement.</sub>
     </td>
   </tr>
 </table>
@@ -87,24 +83,17 @@ Mon portfolio présente mon parcours, mes compétences et mes projets. Il suppor
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/romainfrezier/key-recorder"><strong>key-recorder</strong></a><br />
       Application macOS open source pour suivre et analyser son usage du clavier.<br />
       <sub>Swift · macOS · open source</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/romainfrezier/Portfolio"><strong>Portfolio</strong></a><br />
-      Mon portfolio personnel et mes expérimentations front-end.<br />
-      <sub>TypeScript · web</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/romainfrezier/Seasonsforce"><strong>Seasonsforce</strong></a><br />
       Projet d’école autour d’une architecture microservices et d’une application mobile.<br />
       <sub>Spring · React Native · microservices</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/romainfrezier/Projet-FAR"><strong>Projet-FAR</strong></a><br />
       Système de messagerie fonctionnant sur un réseau local.<br />
       <sub>C · réseau · projet d’école</sub>
