@@ -5,7 +5,7 @@
 <div align="center">
   <img src="img/logo-k.svg" alt="Infomaniak" width="72" />
   <h1>Romain Frezier</h1>
-  <p><strong>Dev Team Leader · Full-stack engineer · Genève</strong></p>
+  <p><strong>Developer Team Leader · Full-stack engineer · Genève</strong></p>
   <p>Je transforme des idées en produits web simples, solides et agréables à utiliser.</p>
   <p>
     <a href="https://romainfrezier.com">Site personnel</a> ·
@@ -19,8 +19,9 @@
 
 ## À propos
 
-- 💼 Dev Team Leader chez [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/fr), à Genève.
+- 💼 Developer Team Leader chez [Infomaniak | The Ethical Cloud](https://www.infomaniak.com/fr), à Genève. Je manage une équipe de 12 développeurs au sein de l’équipe Events & Marketing.
 - 🎓 Ingénieur en Informatique et Gestion, diplômé de [Polytech Montpellier](https://www.polytech.umontpellier.fr/).
+- 💻 J’aime construire des applications propres et maintenables, avec une attention particulière pour le backend, la qualité de code et l’éco-conception.
 - 🏔 Originaire de Haute-Savoie, je recharge les batteries en randonnée, ski de randonnée et trail.
 - 📷 Je photographie les paysages de montagne sur [@mountainpeaktures](https://www.instagram.com/mountainpeaktures/).
 
@@ -29,43 +30,58 @@
 <table>
   <tr>
     <th align="left">Langages</th>
-    <th align="left">Web & back-end</th>
-    <th align="left">Data & infrastructure</th>
-    <th align="left">Outils</th>
+    <th align="left">Web & frameworks</th>
+    <th align="left">Data</th>
+    <th align="left">DevOps & outils</th>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.php.net/"><img src="img/php-logo.png" alt="PHP" width="40" /></a>
       <a href="https://dev.java/"><img src="img/java-logo.png" alt="Java" width="40" /></a>
-      <a href="https://kotlinlang.org/"><img src="img/kotlin-logo.png" alt="Kotlin" width="40" /></a>
       <a href="https://www.python.org/"><img src="img/python-logo.png" alt="Python" width="40" /></a>
-      <a href="https://www.swift.org/"><img src="img/swift-logo.png" alt="Swift" width="40" /></a>
-      <a href="https://en.cppreference.com/w/"><img src="img/c-logo.png" alt="C" width="40" /></a>
-      <br /><sub>Java · Kotlin · Python · Swift · C</sub>
+      <br /><sub>PHP · Java · Python · TypeScript</sub>
     </td>
     <td valign="top">
-      <a href="https://www.typescriptlang.org/"><strong>TypeScript</strong></a> ·
-      <a href="https://angular.dev/"><img src="img/angular-logo.png" alt="Angular" width="40" /></a>
-      <a href="https://react.dev/"><img src="img/react-logo.png" alt="React" width="40" /></a>
       <a href="https://laravel.com/"><img src="img/laravel-logo.png" alt="Laravel" width="40" /></a>
       <a href="https://spring.io/projects/spring-boot"><img src="img/spring-boot-logo.png" alt="Spring Boot" width="40" /></a>
-      <br /><sub>TypeScript · Angular · React · Laravel · Spring Boot</sub>
+      <a href="https://angular.dev/"><img src="img/angular-logo.png" alt="Angular" width="40" /></a>
+      <a href="https://react.dev/"><img src="img/react-logo.png" alt="React" width="40" /></a>
+      <br /><sub>Laravel · Spring Boot · Angular · React</sub>
     </td>
     <td valign="top">
       <a href="https://www.postgresql.org/"><img src="img/postgresql-logo.png" alt="PostgreSQL" width="40" /></a>
-      <a href="https://www.mongodb.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/mongo-db-logo-light.png" /><img src="img/mongo-db-logo-dark.png" alt="MongoDB" width="72" /></picture></a>
-      <a href="https://www.mysql.com/"><img src="img/mysql-logo.png" alt="MySQL" width="40" /></a>
-      <a href="https://www.docker.com/"><img src="img/docker-logo.png" alt="Docker" width="40" /></a>
-      <br /><sub>PostgreSQL · MongoDB · MySQL · Docker</sub>
+      <a href="https://mariadb.org/"><img src="img/mariadb-logo.png" alt="MariaDB" width="40" /></a>
+      <a href="https://www.mongodb.com/"><img src="img/mongo-db-logo-dark.png" alt="MongoDB" width="72" /></a>
+      <br /><sub>PostgreSQL · MariaDB · MongoDB</sub>
     </td>
     <td valign="top">
-      <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/github-logo-light.png" /><img src="img/github-logo-dark.png" alt="GitHub" width="40" /></picture></a>
-      <a href="https://www.jetbrains.com/idea/"><img src="img/intellij-logo.png" alt="IntelliJ IDEA" width="40" /></a>
-      <a href="https://www.jetbrains.com/webstorm/"><img src="img/webstorm-logo.png" alt="WebStorm" width="40" /></a>
-      <a href="https://www.figma.com/"><img src="img/figma-logo.png" alt="Figma" width="28" /></a>
-      <br /><sub>GitHub · IntelliJ IDEA · WebStorm · Figma</sub>
+      <a href="https://www.docker.com/"><img src="img/docker-logo.png" alt="Docker" width="40" /></a>
+      <a href="https://github.com/features/actions"><img src="img/github-logo-dark.png" alt="GitHub Actions" width="40" /></a>
+      <a href="https://www.sonarsource.com/products/sonarqube/"><img src="img/sonarqube-logo.png" alt="SonarQube" width="72" /></a>
+      <br /><sub>Docker · GitHub Actions · SonarQube</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <a href="https://www.infomaniak.com/fr/hebergement/serveur-cloud"><img src="img/logo-k.svg" alt="Infomaniak" width="40" /></a>
+      <a href="https://www.apple.com/fr/macos/"><img src="img/macos-logo.png" alt="macOS" width="40" /></a>
+      <a href="https://www.jetbrains.com/"><img src="img/jetbrains-logo.png" alt="JetBrains" width="96" /></a>
+      <br /><sub>Infomaniak · macOS · JetBrains</sub>
     </td>
   </tr>
 </table>
+
+## Portfolio
+
+Mon portfolio présente mon parcours, mes compétences et mes projets. Il supporte le français et l’anglais, plusieurs thèmes, des tests Jest, une analyse SonarQube et un déploiement via GitHub Actions sur un VPS Infomaniak.
+
+<p align="center">
+  <a href="https://romainfrezier.com"><img src="img/romainfrezier.com.webp" alt="Aperçu du portfolio romainfrezier.com" width="640" /></a>
+</p>
+
+<p align="center">
+  <a href="https://romainfrezier.com">Découvrir le portfolio →</a>
+</p>
 
 ## Projets publics
 
