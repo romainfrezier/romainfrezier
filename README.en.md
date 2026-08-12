@@ -73,17 +73,24 @@ My portfolio showcases my background, skills and projects. It supports English a
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://github.com/romainfrezier/S3Workbench"><strong>S3Workbench</strong></a><br />
+      A native macOS browser for S3-compatible object storage.<br />
+      <sub>Swift · macOS · SwiftUI · open source</sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/romainfrezier/key-recorder"><strong>key-recorder</strong></a><br />
       An open-source macOS app to track and analyse keyboard usage.<br />
       <sub>Swift · macOS · open source</sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/romainfrezier/Seasonsforce"><strong>Seasonsforce</strong></a><br />
       A school project exploring microservices and a mobile application.<br />
       <sub>Spring · React Native · microservices</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/romainfrezier/Projet-FAR"><strong>Projet-FAR</strong></a><br />
       A messaging system running on a local network.<br />
       <sub>C · networking · school project</sub>
